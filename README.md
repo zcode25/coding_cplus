@@ -1,2 +1,2 @@
-# coding
-Kumpulan codingan
+# Kumpulan Codingan C++
+Assalammu'alaikum semuanya,
