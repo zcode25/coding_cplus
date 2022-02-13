@@ -1,8 +1,7 @@
-# Kumpulan Codingan C++
-Assalammu'alaikum semuanya,
+<h1 align="center">C++ Code Collection</h1>
+I use this repository to collect the C++ coding that I made. For those of you who want to download the code, it can also be developed or for learning. Ok thank you all hopefully useful.
+</br></br>
 
-Perkenalkan saya Adam Zein, seorang programmer pemula. Repository ini saya gunakan untuk mengumpulkan codingan - codingan C++ yang saya buat. Buat temen - temen yang mau download codingannya juga boleh untuk dikembangkan maupun untuk pembelajaran. Oke terimakasih semuanya semoga bermanfaat..
-
-Instagram :
-- @azein25
-- @zcode25
+My Instagram :
+- [@azein25](https://www.instagram.com/azein25/) 
+- [@zcode25](https://www.instagram.com/zcode25/)
